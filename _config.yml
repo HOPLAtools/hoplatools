@@ -11,4 +11,5 @@ collections:
   gmail:
     title: gmail
     output: true
+    permalink: gmail
 theme: jekyll-theme-cayman
