@@ -8,4 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+  gmail:
+    title: gmail
+    output: true
 theme: jekyll-theme-cayman
