@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  forms:
+    title: forms
+    output: true
   gmail:
     title: gmail
     output: true
